@@ -9,7 +9,7 @@
 title: Jason Wang's Blog
 email: jasonwang.ecnu@google.com
 description: Programmer and dreamer. Research Interests - machine learning, optimal transport, graph nerual network.  
-baseurl: "/jekyll-wing-template" # the subpath of your site, e.g. /blog
+baseurl: "/jason" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
