@@ -7,7 +7,7 @@
 
 # Site settings
 title: Jason Wang's Blog
-email: jasonwang.ecnu@google.com
+email: jasonwang.ecnu@gmail.com
 description: Programmer and dreamer. Research Interests - machine learning, optimal transport, graph nerual network.  
 baseurl: "/jason" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
